@@ -138,7 +138,7 @@ Saipan 	Northern Mariana Islands 	15.12N 	145.45E
 Oslo 	Norway 	59.55N 	10.45E
 Masqat 	Oman 	23.37N 	58.36E
 Islamabad 	Pakistan 	33.40N 	73.10E
-Ngerulmud 	Palau 	)7.5004N 	134.6243E
+Ngerulmud 	Palau 	7.5004N 	134.6243E
 Panama 	Panama 	09.00N 	79.25W
 Port Moresby 	Papua New Guinea 	09.24S 	147.08E
 Asuncion 	Paraguay 	25.10S 	57.30W
